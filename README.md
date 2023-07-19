@@ -1,2 +1,2 @@
 # pizza-app
-Project for the purchase of cookies created on React/Js/Css /Html
+A project for buying pizza created on React/Js/Css/Html
